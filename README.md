@@ -13,9 +13,6 @@ What things you need to install the software and how to install them
 Install Ponzu CMS
 ```
 go get -u -v github.com/ponzu-cms/ponzu/...
-cd backend/
-ponzu build
-ponzu run --dev-https
 ```
 * Make sure that you can execute `go get` scripts in your globally, by exporting **PATH=$GOPATH/bin** in your *~.bash_profile*
 
