@@ -1,6 +1,6 @@
-# Virtual House
+# Trying out Golang web frameworks
 
-A furniture e-commerce built with Go, that enables users to see 3D models of the selling items.
+Playing with both frontend and backend web frameworks made in Golang
 
 ## Getting Started
 
@@ -46,13 +46,6 @@ hugo server
 * [Go](https://golang.org/) - The open source programming language
 * [Ponzu](https://docs.ponzu-cms.org/) - The open source HTTP server framework and CMS.
 * [Hugo](https://gohugo.io/) - The framework to build static websites
-
-
-## Authors
-
-* **Juan Carlos Sánchez**
-* **Ekaterina Chumakova**
-* **Germán Treviño**
 
 
 ## License
